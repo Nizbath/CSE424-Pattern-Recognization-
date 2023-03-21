@@ -11,7 +11,9 @@ SLOWLY SEEING THE LIGHT: AN INTEGRATIVE REVIEW
 ON ECOLOGICAL LIGHT POLLUTION AS A POTENTIAL THREAT FOR MOLLUSKS
 
 
-Link to the paper:
+Link to the paper: 
+https://link.springer.com/article/10.1007/s11356-020-11824-7
+
 
 
 Group Number:
