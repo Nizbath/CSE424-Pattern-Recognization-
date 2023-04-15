@@ -15,7 +15,7 @@ https://www.overleaf.com/read/wjshcsnnrjhf
 Group Number:
 25
 
-Individual Submitter:
+ Submitter:
 20101227 Nizbath Ahsan
 20201022 Saiyeda Sabiha
 20241004 Mourika Nigar 
