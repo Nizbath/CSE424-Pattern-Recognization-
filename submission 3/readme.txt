@@ -12,14 +12,14 @@ Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
 Jurafsky
 3rd edition
-2014
+2023
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://books.google.com/books...
+https://web.stanford.edu/~jurafsky/slp3/15.pdf
 
 Group Number:
 25
