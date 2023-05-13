@@ -14,6 +14,7 @@ Group Number:
 25
 
 Group Members:
-18201133	Nazmul Hasan Wanjan
-21141064	Basit Hussain
-21241057	Malika Muradi
+20101227 Nizbath Ahsan
+20201022 Saiyeda Sabiha
+20241004 Mourika Nigar
+20101572 Mukarrama Tun Fabia
